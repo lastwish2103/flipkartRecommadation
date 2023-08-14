@@ -11,8 +11,9 @@ const productSchema = new mongoose.Schema({
     description: String,
     discount: String,
     tagline: String,
-    category: String,
-    rating: Number
+    category: Number,
+    rating: Number,
+    gender: Number
 });
 // console.log("check")
 autoIncrement.initialize(mongoose.connection);
