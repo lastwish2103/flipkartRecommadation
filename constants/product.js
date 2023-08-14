@@ -124,5 +124,95 @@ export const products = [
         description: 'Let music brighten up your mood anytime, anywhere with the boAt 235v2 Fast Charging Bluetooth Headset. This Bluetooth headset features a Call Vibration Alert, a Fast Charging Technology, and Easy Access Controls to listen to and manage your favorite music with ease.',
         discount: 'Minimum 50% Off', 
         tagline: 'Grab Now!' 
+    },
+    { 
+        id: 'product8',
+        url: 'https://rukminim2.flixcart.com/image/612/612/xif0q/sandal/h/9/s/-original-imagg5rqysynekyz.jpeg?q=70',
+        detailUrl: 'https://rukminim2.flixcart.com/image/832/832/xif0q/sandal/h/9/s/-original-imagg5rqysynekyz.jpeg?q=70', 
+        title: {
+            shortTitle: 'Footwear',
+            longTitle: 'Men Blue Sandal '
+        }, 
+        price: {
+            mrp: 449,
+            cost: 224,
+            discount: '50%'
+        },
+        quantity: 1,
+        description: ' It should be wide enough and long enough to fit your feet. The shoe should feel snug but not tight',
+        discount: 'Minimum 50% Off', 
+        tagline: 'Grab Now!' 
+    },
+    { 
+        id: 'product9',
+        url: 'https://rukminim2.flixcart.com/image/416/416/kn4xhu80/home-temple/r/j/f/temple-32-craftsfort-original-imagfvvxfh7trmfn.jpeg?q=70',
+        detailUrl: 'https://rukminim2.flixcart.com/image/612/612/kn4xhu80/home-temple/r/j/f/temple-32-craftsfort-original-imagfvvxfh7trmfn.jpeg?q=70', 
+        title: {
+            shortTitle: 'Furniture',
+            longTitle: 'Home Temple '
+        }, 
+        price: {
+            mrp: 11099,
+            cost: 1810,
+            discount: '83%'
+        },
+        quantity: 1,
+        description: 'Skilfully crafted designs along with strong strokes and intricate carvings these temple will spread positive vibes in every corner of your home',
+        discount: 'Minimum 50% Off', 
+        tagline: 'Grab Now!' 
+    },
+    { 
+        id: 'product10',
+        url: 'https://rukminim2.flixcart.com/image/416/416/xif0q/hose-connector/b/q/b/1-2-brass-nozzle-water-spray-gun-hose-nozzles-pipe-for-gardening-original-imaghbm9jgx9vgxh.jpeg?q=70',
+        detailUrl: 'https://rukminim2.flixcart.com/image/612/612/xif0q/hose-connector/b/q/b/1-2-brass-nozzle-water-spray-gun-hose-nozzles-pipe-for-gardening-original-imaghbm9jgx9vgxh.jpeg?q=70', 
+        title: {
+            shortTitle: 'Home Improvement',
+            longTitle: 'Sahebzaade Brass nozzle spray 10 L Backpack Sprayer  (Pack of 2)'
+        }, 
+        price: {
+            mrp: 999,
+            cost: 209,
+            discount: '79%'
+        },
+        quantity: 1,
+        description: ' TERRENE brass nozzle spray available in high-quality gardening tool designed for various outdoor watering applications. It is made from premium brass material, which ensures durability, corrosion resistance, and long-lasting performance.',
+        discount: 'Minimum 50% Off', 
+        tagline: 'Best Seller' 
+    },
+    { 
+        id: 'product11',
+        url: 'https://rukminim2.flixcart.com/image/416/416/kwgpz0w0/helmet/r/z/1/sba-7-7wings-isi-certified-flip-up-helmet-for-men-and-women-1-original-imag94sgnz8c9tnx.jpeg?q=70',
+        detailUrl: 'https://rukminim2.flixcart.com/image/612/612/kwgpz0w0/helmet/r/z/1/sba-7-7wings-isi-certified-flip-up-helmet-for-men-and-women-1-original-imag94sgnz8c9tnx.jpeg?q=70', 
+        title: {
+            shortTitle: 'Bike Helmet',
+            longTitle: 'Steelbird SBA-7 7Wings ISI Certified Flip-Up Helmet for Men and Women Motorbike Helmet  (Dashing Black with Outer Clear and Inner Smoke Sun Shield)'
+        }, 
+        price: {
+            mrp: 1849,
+            cost: 1479,
+            discount: '20%'
+        },
+        quantity: 1,
+        description: 'Helmet Fitted with Clear Visor Quick release chinstrap mechanism for ease of operation and safety ,High quality UV resistant Polyurethane paints used for aesthetic enhancement ,Dynamic ventilation system for increased air flow providing more comfort to the rider while driving ,Outer shell injected from special high impact grade of engineering thermoplastic ,Regulated density EPS concussion padding lined with specially treated anti allergic velveteen',
+        discount: 'Minimum 50% Off', 
+        tagline: 'Best Seller' 
+    },
+    { 
+        id: 'product12',
+        url: 'https://rukminim2.flixcart.com/image/416/416/xif0q/bedsheet/t/7/g/printed-vo-db618-flat-cg-homes-original-imagjwugsqnyygeq.jpeg?q=70',
+        detailUrl: 'https://rukminim2.flixcart.com/image/612/612/xif0q/bedsheet/t/7/g/printed-vo-db618-flat-cg-homes-original-imagjwugsqnyygeq.jpeg?q=70', 
+        title: {
+            shortTitle: 'BedSheet',
+            longTitle: 'CG Homes 160 TC Cotton Double Printed Flat Bedsheet  (Pack of 1, Multicolor)'
+        }, 
+        price: {
+            mrp: 1849,
+            cost: 301,
+            discount: '84%'
+        },
+        quantity: 1,
+        description: 'Bedsheet Fitted with Clear Visor Quick release chinstrap mechanism for ease of operation and safety ,High quality UV resistant Polyurethane paints used for aesthetic enhancement ,Dynamic ventilation system for increased air flow providing more comfort to the rider while driving ,Outer shell injected from special high impact grade of engineering thermoplastic ,Regulated density EPS concussion padding lined with specially treated anti allergic velveteen',
+        discount: 'Minimum 50% Off', 
+        tagline: 'Best Seller' 
     }
 ];
