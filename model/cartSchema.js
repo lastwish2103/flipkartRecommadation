@@ -1,30 +1,13 @@
-// import mongoose from 'mongoose';
+import mongoose from 'mongoose';
 
-// const cartSchema = new mongoose.Schema({
-//     user: {
-//         username: String,
-//         // ref: 'user',
-//         // required: true 
-//     },
-//     cartItems: [
-//         {
-//             product: {
-//                 id: String,
-//                 // required: true,
-//                 // ref: 'Product'
-//             },
-//             quantity: {
-//                 type: Number,
-//                 default: 1
-//             },
-//             price: {
-//                 price: Number,
-//                 // required: true
-//             }
-//         }
-//     ]
-// });
+const cartSchema = new mongoose.Schema({
+    user_id: Number,
+    product_id: Number,
+    timestamp: {
+        tyepe:Date
+    }
+});
 
-// let Cart = mongoose.model('Cart', cartSchema);
+let Cart = mongoose.model('userClick', cartSchema);
 
-// export default Cart;
+export default Cart;

@@ -7,7 +7,7 @@ import { v4 as uuid } from 'uuid';
 import Connection from './database/db.js';
 import DefaultData from './default.js';
 import Routes from './routes/route.js';
-
+import Cart from './model/cartSchema.js';
 
 dotenv.config();
 const app = express();
